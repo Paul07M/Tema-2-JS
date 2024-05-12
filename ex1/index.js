@@ -1,10 +1,10 @@
 
 function display_even_numbers_decresing_order(n) {
 
-    for (let x = 20; x <= n; n -= 2) {
+    for (let x = 2; x <= n; x -= 2) {
         console.log(x);
     }
 
 }
 
-display_even_numbers_decresing_order(20)
+display_even_numbers_ascending_order(10)

@@ -1,8 +1,8 @@
 
 function display_even_numbers_decresing_order(n) {
 
-    for (let x = n, x => n, i -= 2) {
-        console.log(x)
+    for (let x = 20; x <= n; n -= 2) {
+        console.log(x);
     }
 
 }
